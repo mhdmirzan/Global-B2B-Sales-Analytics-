@@ -1,0 +1,14 @@
+{
+  "name": "Buyra Minimal",
+  "dataColors": [
+    "#00C384",
+    "#BCC5C5",
+    "#009F6B",
+    "#D9DEDE",
+    "#5C6666",
+    "#7A8484"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#252525",
+  "tableAccent": "#00C384"
+}
